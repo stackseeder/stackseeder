@@ -1,5 +1,9 @@
-  <a href="https://github.com/stackseeder" target="_blank"><img src="https://github.com/stackseeder/stackseeder/blob/master/github-metrics.svg" width="500" alt="Github Metrics"/></a>
 
+<div align="left">
+
+<a href="https://github.com/stackseeder" target="_blank"><img src="https://github.com/stackseeder/stackseeder/blob/master/github-metrics.svg" width="500" alt="Github Metrics"/></a>
+
+</div>
 
 I am a proficient hands-on professional with a long record of accomplishments in the Computer Software industry. I possesse advanced knowledge and experience in software design, development, object-oriented software development, and database development.
 
