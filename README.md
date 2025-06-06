@@ -10,6 +10,7 @@
 - Frontend: React, Next.js, Vue.js, Nuxt.js, Angular, JavaScript, HTML, CSS
 - CSS Framework: TailWind CSS, Bootstrap, Material UI, Ant Design 
 - Backend: PHP, Laravel, Node.js, Express, Nest.js, Python, Django
+- Blockchain: Solidity, Web3.js, Ethers.js, Hardhat, Truffle, Smart Contract, Ethereum, Polygon
 - Databases: MySQL, PosgreSQL, MongoDB, SQLite
 - Design: Photoshop, Figma, Canva
 - IDEs: VS Code, PHPStorm, WebStorm, Pycharm
